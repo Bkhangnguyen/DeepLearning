@@ -53,3 +53,14 @@
 - Hiểu nguyên tắc reshape **không sao chép dữ liệu** (non-copying)
 
 ---
+## Kết quả 
+
+Sau khi hoàn thành các bài tập, ta sẽ:
+- Thành thạo thao tác với **Tensor** trong PyTorch
+- Hiểu và vận dụng được cơ chế **tính gradient tự động (autograd)**
+- Triển khai được thuật toán **Gradient Descent** cho bài toán tối ưu hóa
+- Huấn luyện thành công mô hình **Hồi quy Tuyến tính** cơ bản
+- Phân biệt được sự khác nhau giữa **sao chép dữ liệu** và **chia sẻ bộ nhớ**
+- Nắm vững các cách tạo và biến đổi hình dạng tensor, kỹ năng cần thiết trong Deep Learning
+
+---

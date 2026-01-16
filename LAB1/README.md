@@ -1,6 +1,6 @@
 # README – Bài tập thực hành PyTorch
 
-## 1. Công nghệ và công cụ sử dụng
+## Công nghệ và công cụ sử dụng
 
 - **Ngôn ngữ lập trình:** Python 3
 - **Thư viện học máy chính:** PyTorch

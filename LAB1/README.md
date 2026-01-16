@@ -38,7 +38,7 @@
 - Thực hành tạo tensor từ mảng NumPy bằng hai phương pháp:
   - `torch.from_numpy()`
   - `torch.tensor()`
-- Phân tích sự khác biệt về **cơ chế quản lý bộ nhớ** (shared memory vs. copy)
+- Phân tích sự khác biệt về **cơ chế quản lý bộ nhớ** 
 - Minh họa trường hợp tensor thay đổi khi mảng NumPy gốc thay đổi
 
 ### Bài 5: Tạo và biến đổi hình dạng Tensor

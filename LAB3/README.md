@@ -40,3 +40,25 @@ Mục tiêu: Chuyển đổi dữ liệu thô thành dữ liệu sạch, sẵn s
 - Tạo bảng phụ `Noise_level`
 - Ghép với bảng chính bằng khóa chung (ví dụ: `Country`)
 
+---
+
+## Kết luận tổng kết
+
+### Kết quả đạt được
+
+**Bài tập 01 - Tiền xử lý dữ liệu:**
+- Đã loại bỏ 2 cột không cần thiết (`Hepatitis B`, `Population`)
+- Chuẩn hóa cột `Status` thành dạng số (0, 1)
+- Đổi tên cột dài thành tên ngắn gọn
+- Tách thành công features (X) và target (y) cho ML
+
+**Bài tập 02 - Xử lý nâng cao:**
+- Xử lý triệt để dữ liệu khuyết bằng phương pháp thay thế
+- Phân tích nhóm cho thấy chênh lệch tuổi thọ rõ rệt giữa các quốc gia
+- Thành công ghép thêm dữ liệu mới vào dataset gốc
+
+###  Nận xét chung
+
+1. **Dữ liệu đầu vào** đã được làm sạch hoàn toàn, sẵn sàng cho training
+2. **Quy trình xử lý** tuân thủ đúng các bước tiêu chuẩn trong data pipeline
+3. **Kết quả phân tích** cung cấp insights hữu ích về mối quan hệ giữa phát triển kinh tế và tuổi thọ
